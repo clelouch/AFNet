@@ -23,22 +23,12 @@ Training and testing datasets are available at
 ([Baidu](https://pan.baidu.com/s/1FfUyjr_rUo4ek8pp0DzvDw)) [code:jyb2]
 
 ## Training and testing code will be available soon
-```
-%python train.py
-```
-
-%## Test
-%```
-% python test.py
-%```
-%We provide the trained model file 
-%([weight](https://pan.baidu.com/s/1sHSPhGvQJszpN97stzuxFA)) [code:1fau]
 
 The prediction maps are also available
 ([results](https://pan.baidu.com/s/15YnBjvp7JezvKwW6MIliqA)) [code:0bxq]
 
 ## Citation
-Please cite the `BgNet` in your publications if it helps your research:
+Please cite the `AFNet` in your publications if it helps your research:
 ```
 @article{CHEN2022,
   title = {Adaptive fusion network for RGB-D salient object detection},
