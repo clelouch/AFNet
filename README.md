@@ -22,7 +22,7 @@ Training and testing datasets are available at
 
 ([Baidu](https://pan.baidu.com/s/1FfUyjr_rUo4ek8pp0DzvDw)) [code:jyb2]
 
-## Training and testing code will be available soon
+## Training and testing code will be available as soon as we come back to the school
 
 The prediction maps are also available
 ([results](https://pan.baidu.com/s/15YnBjvp7JezvKwW6MIliqA)) [code:0bxq]
