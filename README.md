@@ -31,9 +31,10 @@ python train.py
 ```
  python test.py
 ```
+We provide the trained model file ([Baidu](https://pan.baidu.com/s/1j5pGbXzQ1Jpp_1-FJi6UvA)) [code:r7wc]
 
-The prediction maps are also available
-([results](https://pan.baidu.com/s/15YnBjvp7JezvKwW6MIliqA)) [code:0bxq]
+The prediction results are also available ([Baidu](https://pan.baidu.com/s/1WoY4dNgqOL3O4Sa9TXa3VQ)). [code:ijj9]
+
 
 ## Citation
 Please cite the `AFNet` in your publications if it helps your research:
