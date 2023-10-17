@@ -26,6 +26,7 @@ Training and testing datasets are available at
 ```
 python train.py
 ```
+We provide the trained backbone [Google](https://drive.google.com/file/d/1iIEEkyOhw1i3tPXiVW7OMf-0sTKLu0pT/view?usp=sharing).
 
 ## Test
 ```
